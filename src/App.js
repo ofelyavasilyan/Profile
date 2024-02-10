@@ -13,7 +13,7 @@ function App(){
     return(
        <div> 
        <Home name={name} age={age} data={data} />
-      
+       <Home name={name} age={age} data={data} />
         </div>
     )
 }
