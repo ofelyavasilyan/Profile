@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    margin-top: 40px;
+    background-color: white;
+    width: 100%;
+    max-width: 1200px;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.link{
+    display: flex;
+    flex-direction: row;
+    gap:40px;
+}
